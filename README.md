@@ -173,4 +173,4 @@ The Adaptive CLI System Diagnostics & Configuration Tool is a simple beginner-le
 
 **Branch: B tech. Bioengineering**
 
-The Adaptive CLI System Diagnostics & Configuration Tool is a simple beginner-level Python project that demonstrates how Python can interact with the operating system and provide useful system information through a command-line interface.
+
