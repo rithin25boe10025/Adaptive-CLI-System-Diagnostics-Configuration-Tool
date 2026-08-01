@@ -118,5 +118,14 @@ The project can be enhanced by adding:
 * A graphical user interface (GUI)
 
 ## Conclusion
+---
+
+**Author: Rithin Bala B** 
+
+**Reg No.: 25BOE10025**
+
+**course: Python Programming**
+
+**Branch: B tech. Bioengineering**
 
 The Adaptive CLI System Diagnostics & Configuration Tool is a simple beginner-level Python project that demonstrates how Python can interact with the operating system and provide useful system information through a command-line interface.
